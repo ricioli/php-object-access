@@ -1,6 +1,6 @@
-# php-object-access README
+# php-object-access
 
-This is the README for your extension "php-object-access". After writing up a brief description, we recommend including the following sections.
+Automatically add PHP object access operator ->, on typing -
 
 ## Features
 

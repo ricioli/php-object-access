@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.63.0"
   },
+  "publisher": "ricioli",
+  "author": {
+    "name": "Alex Fabiano Ricioli"
+  },
   "categories": [
     "Other",
     "Programming Languages"
