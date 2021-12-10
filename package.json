@@ -23,17 +23,11 @@
     "url": "https://github.com/ricioli/php-object-access.git"
   },
   "activationEvents": [
-    "*",
-    "onCommand:php-object-access.PHPObjectAccessActivate"
+    "onStartupFinished",
+    "onLanguage:php"
   ],
   "main": "./extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "php-object-access.PHPObjectAccessActivate",
-        "title": "Activate"
-      }
-    ],
     "configuration": {
       "type": "object",
       "title": "PHP object access configuration",
