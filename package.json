@@ -2,7 +2,7 @@
   "name": "php-object-access",
   "displayName": "PHP object access",
   "description": "Automatically add PHP object access operator ->, on typing -",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.63.0"
   },
